@@ -1,0 +1,268 @@
+fileFormatVersion: 2
+guid: 31cfc95b51694a345b1427438722d2e1
+timeCreated: 1451240082
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: eggAnimationnoBG_0
+    21300002: eggAnimationnoBG_1
+    21300004: eggAnimationnoBG_2
+    21300006: eggAnimationnoBG_3
+    21300008: eggAnimationnoBG_4
+    21300010: eggAnimationnoBG_5
+    21300012: eggAnimationnoBG_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: eggAnimationnoBG_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 44
+        width: 210
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 105, y: -17}
+        - {x: 105, y: 53}
+        - {x: 90, y: 85}
+        - {x: 53, y: 125}
+        - {x: 31, y: 137}
+        - {x: 12, y: 139}
+        - {x: -56, y: 139}
+        - {x: -72, y: 121}
+        - {x: -94, y: 78}
+        - {x: -105, y: 46}
+        - {x: -105, y: -30}
+        - {x: -94, y: -86}
+        - {x: -72, y: -119}
+        - {x: -34, y: -139}
+        - {x: 34, y: -139}
+        - {x: 49, y: -124}
+        - {x: 63, y: -97}
+        - {x: 99, y: -31}
+    - name: eggAnimationnoBG_1
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 40
+        width: 195
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 97.5, y: 18}
+        - {x: 95.5, y: 34}
+        - {x: 81.5, y: 86}
+        - {x: 64.5, y: 118}
+        - {x: 37.5, y: 140}
+        - {x: -41.5, y: 140}
+        - {x: -59.5, y: 128}
+        - {x: -97.5, y: 46}
+        - {x: -97.5, y: -26}
+        - {x: -85.5, y: -82}
+        - {x: -44.5, y: -131}
+        - {x: -13.5, y: -140}
+        - {x: 25.5, y: -140}
+        - {x: 58.5, y: -116}
+        - {x: 93.5, y: -65}
+        - {x: 97.5, y: -47}
+    - name: eggAnimationnoBG_2
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 43
+        width: 195
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 97.5, y: 18}
+        - {x: 95.5, y: 34}
+        - {x: 81.5, y: 86}
+        - {x: 64.5, y: 118}
+        - {x: 37.5, y: 140}
+        - {x: -41.5, y: 140}
+        - {x: -59.5, y: 128}
+        - {x: -97.5, y: 46}
+        - {x: -97.5, y: -26}
+        - {x: -85.5, y: -82}
+        - {x: -44.5, y: -131}
+        - {x: -13.5, y: -140}
+        - {x: 25.5, y: -140}
+        - {x: 58.5, y: -116}
+        - {x: 93.5, y: -65}
+        - {x: 97.5, y: -47}
+    - name: eggAnimationnoBG_3
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 41
+        width: 195
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 97.5, y: 18}
+        - {x: 95.5, y: 34}
+        - {x: 81.5, y: 86}
+        - {x: 64.5, y: 118}
+        - {x: 37.5, y: 140}
+        - {x: -41.5, y: 140}
+        - {x: -59.5, y: 128}
+        - {x: -97.5, y: 46}
+        - {x: -97.5, y: -26}
+        - {x: -85.5, y: -82}
+        - {x: -44.5, y: -131}
+        - {x: -13.5, y: -140}
+        - {x: 25.5, y: -140}
+        - {x: 58.5, y: -116}
+        - {x: 93.5, y: -65}
+        - {x: 97.5, y: -47}
+    - name: eggAnimationnoBG_4
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 34
+        width: 248
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 114, y: 9}
+        - {x: 87, y: 9}
+        - {x: 59, y: 13}
+        - {x: 112, y: 35}
+        - {x: 124, y: 56}
+        - {x: 124, y: 60}
+        - {x: 118, y: 67}
+        - {x: 27, y: 134}
+        - {x: -20, y: 143}
+        - {x: -101, y: 143}
+        - {x: -124, y: 126}
+        - {x: -124, y: 99}
+        - {x: -100, y: 33}
+        - {x: -78, y: 11}
+        - {x: -62, y: -82}
+        - {x: -38, y: -133}
+        - {x: 11, y: -143}
+        - {x: 88, y: -143}
+        - {x: 124, y: -81}
+        - {x: 124, y: 5}
+        - {x: 117, y: 8}
+    - name: eggAnimationnoBG_5
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 24
+        width: 265
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 132.5, y: 15}
+        - {x: 132.5, y: 97}
+        - {x: 121.5, y: 105}
+        - {x: 84.5, y: 126}
+        - {x: 44.5, y: 140}
+        - {x: -3.5, y: 140}
+        - {x: -4.5, y: 136}
+        - {x: 22.5, y: 64}
+        - {x: -27.5, y: 127}
+        - {x: -132.5, y: 140}
+        - {x: -132.5, y: 75}
+        - {x: -97.5, y: 12}
+        - {x: -82.5, y: -38}
+        - {x: -55.5, y: -108}
+        - {x: -32.5, y: -140}
+        - {x: 64.5, y: -140}
+        - {x: 105.5, y: -76}
+        - {x: 115.5, y: -45}
+        - {x: 114.5, y: -15}
+    - name: eggAnimationnoBG_6
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 38
+        width: 294
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 142, y: -73}
+        - {x: 147, y: -69}
+        - {x: 147, y: -14}
+        - {x: 59, y: 124}
+        - {x: 45, y: 127}
+        - {x: -87, y: 127}
+        - {x: -90, y: 106}
+        - {x: -127, y: 115}
+        - {x: -147, y: 100}
+        - {x: -147, y: 39}
+        - {x: -138, y: 8}
+        - {x: -147, y: -4}
+        - {x: -147, y: -61}
+        - {x: -143, y: -91}
+        - {x: -117, y: -108}
+        - {x: -90, y: -123}
+        - {x: -18, y: -127}
+        - {x: 85, y: -127}
+        - {x: 125, y: -88}
+        - {x: 126, y: -85}
+        - {x: 126, y: -83}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
